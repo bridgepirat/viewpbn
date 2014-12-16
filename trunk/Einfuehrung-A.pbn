@@ -1,0 +1,373 @@
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+[Event "##Beispiele A"]
+[Site "##KDW Bridge Einführungskurs"]
+[Date "##2013.12.23"]
+[Board "1"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK8.K76.AJ2.QT86 QJT9.JT98.9876.A 432.AQ2.KQT.KJ97 765.543.543.5432"]
+[Scoring "##IMP"]
+[Declarer "S"]
+[Contract "5NT"]
+[Result "11"]
+{Süd ist Alleinspieler in 5 Sans Atout,}
+{und muss 11 Stiche machen!}
+[Play "W"]
+{West spielt zum 1. Stich Pik Dame aus.}
+SQ S2 S5 SA
+{Süd muss zunächst die Treff Farbe entwickeln}
+CA C7 C2 C6
+{West bringt Pik weiter}
+SJ S3 S6 SK
+{Jetzt hat Süd 11 Stiche "von oben" und zieht diese ab}
+D6 C9 C3 CQ
+D7 CJ C4 CT
+D8 CK C5 C8
+H8 HA H3 H6
+H9 HQ H4 H7
+HT H2 H5 HK
+D9 DK D3 D2
+HJ DQ D4 DJ
+S9 DT D5 DA
+ST S4 S7 S8
+[Generator "##-322959977"]
+[OptimumResult "3NT N/S +2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C 11 
+N  D 10 
+N  H 10 
+N  S 10 
+N NT 11 
+E  C  2 
+E  D  3 
+E  H  3 
+E  S  3 
+E NT  2 
+S  C 11 
+S  D 10 
+S  H 10 
+S  S 10 
+S NT 11 
+W  C  2 
+W  D  3 
+W  H  3 
+W  S  3 
+W NT  2 
+[OptimumScore "NS 460"]
+[Score "NS 460"]
+[ValidDeal "##True"]
+
+[Board "2"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:87654.6543.6.QJT KQ.AKQ.QJT987.AK A32.JT987.AK.987 JT9.2.5432.65432"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+{Süd ist Alleinspieler in 3SA und muss 9 STiche machen!}
+[Play "W"]
+{West spielt Coeur Bube aus.}
+HJ H2 H3 HA
+{Süd muss Stiche entwickeln, am besten in Karo.}
+DA D2 D6 DQ
+HT C2 H4 HK
+{Süd bringt weiter Karo um die Farbe hochzuspielen.}
+DK D3 S4 DJ
+H9 C3 H5 HQ
+{Süd hat jetzt 4 Stiche in Karo entwickelt,}
+{zusammen mit den 5 Sofortsichen erfüllt er sein Spiel}
+S2 D4 S5 DT
+S3 D5 S6 D9
+C7 C4 S7 D8
+C8 C5 S8 D7
+C9 C6 CT CA
+H7 S9 CJ CK
+SA ST H6 SK
+H8 *   
+[OptimumResult "3NT N/S +2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C  9 
+N  D 10 
+N  H  6 
+N  S  7 
+N NT  9 
+E  C  4 
+E  D  3 
+E  H  7 
+E  S  6 
+E NT  4 
+S  C  9 
+S  D 10 
+S  H  6 
+S  S  7 
+S NT  9 
+W  C  4 
+W  D  3 
+W  H  7 
+W  S  6 
+W NT  4 
+[OptimumScore "NS 460"]
+[Score "NS 400"]
+
+[Board "3"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "S:972.AKQ4.AT83.54 J43.932.65.KQJ98 AKT.JT65.KQJ.763 Q865.87.9742.AT2"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+{Süd ist Alleinspieler in 4Coeur}
+{4Coeur ist ein Vollspiel.}
+[Play "W"]
+{West spielt Treff König aus.}
+CK C3 CT C4
+CQ C6 C2 C5
+CJ C7 CA H4
+{Süd hat kein Treff mehr und kann mit Trumpf stechen}
+{Süd zieht die Trümpfe der Gegner heraus.}
+H2 H5 H7 HA
+H3 H6 H8 HK
+H9 HT S5 HQ
+D5 DK D2 D3
+D6 DQ D4 D8
+C8 DJ D7 DA
+C9 ST D9 DT
+S3 SA S6 S2
+S4 SK S8 S7
+SJ HJ SQ S9
+[OptimumResult "4H N/S +1"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C  6 
+N  D 10 
+N  H 11 
+N  S  8 
+N NT  8 
+E  C  7 
+E  D  3 
+E  H  2 
+E  S  4 
+E NT  3 
+S  C  6 
+S  D 10 
+S  H 11 
+S  S  8 
+S NT  8 
+W  C  7 
+W  D  3 
+W  H  2 
+W  S  4 
+W NT  3 
+[OptimumScore "NS 450"]
+[Score "NS -450"]
+
+[Board "4"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AK2.KQJT32.32.QJ QT8765.7.J8.AKT9 43.986.AK54.5432 J9.A54.QT976.876"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+{Süd ist Alleinspieler in 4Coeur.}
+[Play "W"]
+{West spielt Treff Ass aus.}
+CA C2 C6 CJ
+CK C3 C7 CQ
+{Süd kann die 3. Treff-Runde stechen.}
+CT C4 C8 H2
+{Süd hat noch weitere 2 Verlierer, welche?}
+s5 s3 s9 SA
+S6 S4 SJ SK
+S7 H9 D6 S2
+H7 H6 H4 HT
+S8 H8 HA HK
+D8 DA DT D2
+*
+[OptimumResult "4SX E/W -2"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C  5 
+N  D  5 
+N  H 10 
+N  S  4 
+N NT  8 
+E  C  8 
+E  D  8 
+E  H  3 
+E  S  8 
+E NT  5 
+S  C  5 
+S  D  5 
+S  H 10 
+S  S  4 
+S NT  8 
+W  C  8 
+W  D  8 
+W  H  3 
+W  S  8 
+W NT  5 
+[OptimumScore "NS 500"]
+[Score "NS 620"]
+
+[Board "5"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:82.AT985.A72.A98 AQT75.43.KQT.Q63 96.KQ7.985.KT742 KJ43.J62.J643.J5"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+1H 1S 2H 2S
+Pass Pass Pass
+{Süd spielt 2Pik.}
+[Play "W"]
+{West spielt Coeur König aus.}
+HK H2 H9 H3
+HQ H6 H5 H4
+H7 HJ HA S5
+S6 SK S2 S7
+S9 S3 S8 SA
+{O/W haben keine Trümpfe mehr daher}
+{zieht Süd keine weiteren Trumpf-Runden}
+D5 D3 DA DK
+D8 D4 D7 DQ
+D9 D6 D2 DT
+C4 CJ CA C3
+CK C5 C9 CQ
+{Süd kann den letzten Treff am Tisch stechen}
+*
+[OptimumResult "3HX O/W -1"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C  5 
+N  D  7 
+N  H  5 
+N  S  8 
+N NT  6 
+E  C  8 
+E  D  6 
+E  H  8 
+E  S  5 
+E NT  7 
+S  C  5 
+S  D  7 
+S  H  5 
+S  S  8 
+S NT  6 
+W  C  8 
+W  D  6 
+W  H  8 
+W  S  5 
+W NT  7 
+[OptimumScore "NS 100"]
+[Score "NS 110"]
+
+[Board "6"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A87654.Q7.AK.J32 3.AKT543.Q2.K987 KJ2.986.J543.AQT QT9.J2.T9876.654"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1S 2H 3S Pass
+4S Pass Pass Pass
+{Süd ist Alleinspieler in 4Pik}
+[Play "W"]
+{West spielt Coeur Ass aus.}
+HA H6 H2 H7
+HK H8 HJ HQ
+HT H9 D6 S4
+{Süd zieht zunächst die Trümpfe der Gegner heraus.}
+S3 S2 S9 SA
+H3 SK ST S5
+{Süd muss Treff aus der Hand bringen...}
+{geht daher erst mit Karo in die Hand}
+D2 D3 D7 DA
+C7 CT C4 CJ
+C8 CQ C5 C2
+*
+[Hidden "WE"]
+[OptimumResult "4S N/S ="]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C  8 
+N  D  8 
+N  H  6 
+N  S 10 
+N NT  7 
+E  C  5 
+E  D  5 
+E  H  6 
+E  S  2 
+E NT  5 
+S  C  8 
+S  D  8 
+S  H  6 
+S  S 10 
+S NT  7 
+W  C  5 
+W  D  5 
+W  H  6 
+W  S  2 
+W NT  5 
+[OptimumScore "NS 420"]
+[Score "NS 420"]
+
+[Board "7"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQJ874.2.KT8.QJT 62.954.AJ432.K72 AT5.JT6.976.9864 93.AKQ873.Q5.A53"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1S Pass 2S 3H
+Pass 4H Pass Pass
+Pass
+{Süd ist Alleinspieler in 4Coeur}
+[Play "W"]
+{West spielt Pik König aus}
+SK S2 ST S3
+SQ S6 S5 S9
+{Da Süd kein Pik mehr hat, wechselt West auf Treff}
+CQ C2 C4 CA
+H2 H4 H6 HA
+S4 H5 HT HK
+S7 H9 HJ HQ
+DK DA D6 DQ
+D8 DJ D7 D5
+{Süd etabliert die Karo am Tisch durch trumpfen}
+DT D2 D9 H3
+CT CK C6 C3
+{auf die hohen Karo wirft Süd den treff Verlierer ab}
+*
+[Hidden "WE"]
+ 
+
