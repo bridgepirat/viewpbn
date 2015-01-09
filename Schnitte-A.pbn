@@ -1,0 +1,209 @@
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+[Event "Beispiel-Austeilungen A"]
+[Site "KDW Spieltechnik - Die Schnitte"]
+[Date "2014.12.22"]
+[Board "1"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A96.Q72.J863.A72 7432.KJT.K97.864 85.A98643.AQT.KT KQJT.5.542.QJ953"]
+[Scoring "##IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1H Pass 
+3H Pass 4H Pass 
+Pass Pass 
+{Süd ist Alleinspieler in 4 Coeur}
+[Play "W"]
+{West spielt zum 1. Stich Pik König aus}
+SK SA S2 S5
+{Coeur zum Ass dann Expass zur Dame}
+H5 H2 HT HA
+C5 HQ HK H3
+{der Expass klappt leider nicht}
+C3 H7 HJ H4
+ST S6 S7 S8
+SQ S9 S3 H6
+{Jetzt muss der Impass in Karo versucht werden}
+{Dazu muss erst der Tisch mit Treff erreicht werden}
+CJ CA C4 CT
+D2 DJ D7 DT
+D4 D3 D9 DQ
+* 
+[Hidden "WE"]
+[Generator "-1743794030"]
+[OptimumResult "4H N/S +1"]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C  7 
+N  D  9 
+N  H 11 
+N  S  8 
+N NT  8 
+E  C  6 
+E  D  4 
+E  H  2 
+E  S  5 
+E NT  5 
+S  C  7 
+S  D  9 
+S  H 11 
+S  S  8 
+S NT  8 
+W  C  5 
+W  D  4 
+W  H  2 
+W  S  5 
+W NT  5 
+[OptimumScore "NS 450"]
+[Score "NS -500"]
+[ValidDeal "##True"]
+
+[Board "2"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:432.Q9864.32.732 AK6.T732.A86.KJT T985.AJ.9754.954 QJ7.K5.KQJT.AQ86"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "E"]
+Pass 1NT Pass 6NT 
+Pass Pass Pass 
+{Süd ist Alleinspieler in &SA}
+[Play "W"]
+{West spielt zum 1. Stich Pik 10 aus}
+ST S7 S2 SK
+D4 DT D2 DA
+D5 DJ D3 D6
+D7 DQ H4 D8
+D9 DK H6 H2
+C4 C6 C2 CK 
+{Süd muss den Coeur Expass riskieren,}
+{solange er die Pik noch stoppt}
+HJ HK H8 H3
+*  
+[Hidden "WE"]
+[Generator "908195807"]
+[Score "NS -1200"]
+
+[Board "3"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.AK.AKQT76.AQT KQT6.T96.842.872 A9832.QJ.J53.643 74.875432.9.KJ95"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+2D Pass 2S Pass 
+6NT Pass Pass Pass 
+{Süd ist Alleinspieler in 6SA}
+[Play "W"]
+SK SA S4 S5
+{Süd muss sofort den Doppelschnitt in Treff riskieren}
+C2 C3 C5 CT
+D2 DJ D9 D6
+{Süd schneidet in Treff ein zweites Mal}
+C7 C4 C9 CQ
+*
+[Hidden "WE"}
+[Generator "1262473904"]
+[OptimumResult "6NT N/S ="]
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N  C 10 
+N  D 12 
+N  H  7 
+N  S 11 
+N NT 12 
+E  C  2 
+E  D  1 
+E  H  5 
+E  S  2 
+E NT  1 
+S  C 10 
+S  D 12 
+S  H  7 
+S  S 11 
+S NT 12 
+W  C  2 
+W  D  1 
+W  H  5 
+W  S  2 
+W NT  1 
+[OptimumScore "NS 990"]
+[Score "NS -600"]
+
+[Board "4"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:432.KQT9.T5.9753 KQT9.432.J42.KQ6 AJ8765.J75.3.JT8 .A86.AKQ9876.A42"]
+[Declarer "S"]
+[Contract "7D"]
+[Result "13"]
+[Auction "W"]
+Pass Pass 2S X 
+Pass 3NT Pass 7D 
+Pass Pass Pass 
+{Süd ist Alleinspieler in 7 Karo}
+[Play "W"]
+{West speilt zum 1. STich Coeur König aus}
+HK H2 H5 HA
+D5 D2 D3 DA
+DT DJ S5 D6
+{Vorlegen von Pik König zum Schnapp-Schnitt}
+S2 SK S6 H6
+S3 SQ SA D7
+C3 CK C8 C2
+S4 ST S7 H8
+{Süd wiederholt den Schnapp-Schnitt in Pik}
+*
+[Hidden "WE"] 
+[Generator "719659067"]
+
+[Board "5"]
+[West "West"]
+[North "Nord"]
+[East "Ost"]
+[South "Süd"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ72.AQJT8.A32.6 4.K9532.KQ986.JT KJT986.64.4.AK74 53.7.JT75.Q98532"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "N"]
+1H Pass 1S Pass 
+4C Pass 4NT Pass 
+5C Pass 5H Pass 
+5S Pass 6S Pass 
+Pass Pass 
+{Süd ist Alleinspieler in 6 Pik}
+[Play "W"]
+{West spielt Coeur 7 zum 1. Stich aus}
+H7 HA H2 H4
+{Süd verzichtet auf den Impass,}
+{hat West vom SIngle Coeur ausgespielt,}
+{kann er die 2. Runde schnappen}
+S3 SA S4 S6
+S5 S2 D6 SK
+*
+[Hidden "WE"]
+[Generator "-877702084"]
+
