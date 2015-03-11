@@ -1,11 +1,11 @@
-% LIN File created by PbnToLin on 2015-03-11 at 11:04.
+<!--% LIN File created by PbnToLin on 2015-03-11 at 11:04.
 % 
 % Source file - Einfuehrung-A.pbn
 % 
 % [Date] ##2013.12.23
 % [Location] ##KDW Bridge Einführungskurs
 % [Event] ##Beispiele A
-% 
+% -->
 <lin>
 qx|o1|md|1SAK8HK76DAJ2CQT86,SQJT9HJT98D9876CA,S432HAQ2DKQTCKJ97|rh||ah|Board 1|sv|0|pg||
 qx|o2|md|4SKQHAKQDQJT987CAK,SA32HJT987DAKC987,SJT9H2D5432C65432|rh||ah|Board 2|sv|0|pg||
