@@ -1,0 +1,89 @@
+% LIN created by BFC.EXE MY\STALSBP.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT, Die Schnitte - Beispiel Austeilungen,P,1,5,Nord,0,Ost,0|
+rs|4HS=,,6NS=,,6NS=,,7DS=,,6SS=,,|
+qx|o1|md|3S85HA98643DAQTCKT,SKQJTH5D542CQJ953,SA96HQ72DJ863CA72|sv|0|
+sk||rh||ah|Board 1|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Spieltechnik - Die Schnitte|at|
+[Event] Beispiel-Austeilungen A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1HP3HP4HPPP|at|
+[Contract] 4H:S|pg||
+pc|SK|pc|SA|pc|S2|pc|S5|pg||
+pc|H2|pc|HT|pc|HA|pc|H5|pg||
+pc|H3|pc|C5|pc|HQ|pc|HK|pg||
+pc|HJ|pc|H4|pc|C3|pc|H7|pg||
+pc|S7|pc|S8|pc|ST|pc|S6|pg||
+pc|SQ|pc|S9|pc|S3|pc|H6|pg||
+pc|CT|pc|CJ|pc|CA|pc|C4|pg||
+pc|DJ|pc|D7|pc|DT|pc|D2|pg||
+pc|D3|pc|D9|pc|DQ|pc|D4|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o2|md|4SAK6HT732DA86CKJT,ST985HAJD9754C954,SQJ7HK5DKQJTCAQ86|sv|N|
+sk||rh||ah|Board 2|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Die Schnitte|at|
+[Event] Beispiel-Austeilungen A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP6NPPP|at|
+[Contract] 6N:S|pg||
+pc|ST|pc|S7|pc|S2|pc|SK|pg||
+pc|DA|pc|D4|pc|DT|pc|D2|pg||
+pc|D6|pc|D5|pc|DJ|pc|D3|pg||
+pc|DQ|pc|H4|pc|D8|pc|D7|pg||
+pc|DK|pc|H6|pc|H2|pc|D9|pg||
+pc|C6|pc|C2|pc|CK|pc|C4|pg||
+pc|H3|pc|HJ|pc|HK|pc|H8|pg||
+mc|12|at|
+[Result] 12+1440|pg||
+
+qx|o3|md|1SJ5HAKDAKQT76CAQT,SKQT6HT96D842C872,SA9832HQJDJ53C643|sv|E|
+sk||rh||ah|Board 3|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Die Schnitte|at|
+[Event] Beispiel-Austeilungen A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2D|an|Partieforcing.|mb|P2S|an|ab 8FP, ungleichmaessig oder 5er OF.|mb|P6NPPP|at|
+[Contract] 6N:S|pg||
+pc|SK|pc|SA|pc|S4|pc|S5|pg||
+pc|C3|pc|C5|pc|CT|pc|C2|pg||
+pc|D6|pc|D2|pc|DJ|pc|D9|pg||
+pc|C4|pc|C9|pc|CQ|pc|C7|pg||
+mc|12|at|
+[Result] 12+990|pg||
+
+qx|o4|md|2SHA86DAKQ9876CA42,S432HKQT9DT5C9753,SKQT9H432DJ42CKQ6|sv|B|
+sk||rh||ah|Board 4|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Die Schnitte|at|
+[Event] Beispiel-Austeilungen A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP2S|an|Weak Two.|mb|D|an|Informationskontra.|mb|P3NP7DPPP|at|
+[Contract] 7D:S|pg||
+pc|HK|pc|H2|pc|H5|pc|HA|pg||
+pc|DA|pc|D5|pc|D2|pc|D3|pg||
+pc|D6|pc|DT|pc|DJ|pc|S5|pg||
+pc|SK|pc|S6|pc|H6|pc|S2|pg||
+pc|SQ|pc|SA|pc|D7|pc|S3|pg||
+pc|C2|pc|C3|pc|CK|pc|C8|pg||
+pc|ST|pc|S7|pc|H8|pc|S4|pg||
+mc|13|at|
+[Result] 13+2140|pg||
+
+qx|o5|md|3SKJT986H64D4CAK74,S53H7DJT75CQ98532,SAQ72HAQJT8DA32C6|sv|N|
+sk||rh||ah|Board 5|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Die Schnitte|at|
+[Event] Beispiel-Austeilungen A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1HP1SP4C|an|Splinter, Schlemmintersse.|mb|P4N|an|Key-Card Assfrage.|mb|P5C|an|3 Key-Cards.|mb|P5H|an|Koenigs-Frage|mb|P5S|an||mb|P6SPPP|at|
+[Contract] 6S:S|pg||
+pc|H7|pc|HA|pc|H2|pc|H4|pg||
+pc|SA|pc|S4|pc|S6|pc|S3|pg||
+pc|S2|pc|D6|pc|SK|pc|S5|pg||
+mc|12|at|
+[Result] 12+1430|pg||
+</lin>
+
