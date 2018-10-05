@@ -1,0 +1,114 @@
+% LIN created by BFC.EXE MY\STALSUE.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT, Die Schnitte - Uebung,P,1,6,Nord,0,Ost,0|
+rs|3NS=,,6SS=,,6HS=,,5DS=,,4HS=,,3NS=,,|
+qx|o1|md|3SK53HAK65D765CAQ5,SQJT87HT7DAJ9CKT6,SA2H832DKQ432C742|sv|0|
+sk|S|rh||ah|Board 1|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Spieltechnik - Alleinspiel|at|
+[Event] Schnitte - Uebung|at|
+[Scoring] I|pn|S&#xfc;d,West,Nord,Ost|pf|y|
+mb|PP1NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|S2|pc|S4|pc|SK|pg||
+pc|D5|pc|D9|pc|DK|pc|D8|pg||
+pc|H2|pc|H4|pc|HA|pc|H7|pg||
+pc|D6|pc|DJ|pc|DQ|pc|DT|pg||
+pc|D2|pc|S6|pc|D7|pc|DA|pg||
+pc|SJ|pc|SA|pc|S9|pc|S3|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o2|md|4SQT73HAK7DT85CAQ6,S98HQJT9DK32CKT87,SAKJ64H63DAJ976C2|sv|N|
+sk|S|rh||ah|Board 2|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Alleinspiel|at|
+[Event] Schnitte - Uebung|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP2HP2SP3DP3SP4DP6SPPP|at|
+[Contract] 6S:S|pg||
+pc|HQ|pc|H3|pc|H2|pc|HA|pg||
+pc|S3|pc|s8|pc|SA|pc|S2|pg||
+pc|S4|pc|S5|pc|SQ|pc|S9|pg||
+pc|DT|pc|D2|pc|D6|pc|DQ|pg||
+pc|C4|pc|CA|pc|C8|pc|C2|pg||
+pc|D8|pc|D3|pc|D7|pc|D4|pg||
+pc|D5|pc|DK|pc|DA|pc|C3|pg||
+mc|12|at|
+[Result] 12+1430|pg||
+
+qx|o3|md|1S8HAKT753DA82CAK3,S752HJ984DKQJ6C76,SAQJTHQ62D543CQJT|sv|E|
+sk|S|rh||ah|Board 3|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Alleinspiel|at|
+[Event] Schnitte - Uebung|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2C|an|Semiforcing.|mb|P2D|an|Relay.|mb|P2H|an|20-22FL mit 5er Pik.|mb|P3H|an|Einfache Hebung: hier Schlemminteresse.|mb|P4NP5DP6HPPP|at|
+[Contract] 6H:S|pg||
+pc|DK|pc|D3|pc|D7|pc|DA|pg||
+pc|HA|pc|H4|pc|H2|pc|C2|pg||
+pc|H3|pc|H8|pc|HQ|pc|S3|pg||
+pc|H6|pc|C4|pc|HK|pc|H9|pg||
+pc|S8|pc|S2|pc|SA|pc|S4|pg||
+pc|SQ|pc|S6|pc|D2|pc|S5|pg||
+pc|SJ|pc|SK|pc|H5|pc|S7|pg||
+pc|C3|pc|C7|pc|CQ|pc|C5|pg||
+pc|ST|pc|S9|pc|D8|pc|HJ|pg||
+mc|12|at|
+[Result] 12+980|pg||
+
+qx|o4|md|2SAK3H6DKQT7543CAQ,S874HAKQ75D6CK632,SJ652H432DAJ8C854|sv|B|
+sk|S|rh||ah|Board 4|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Alleinspiel|at|
+[Event] Schnitte - Uebung|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1HP2HDP2SP4DP5DPPP|at|
+[Contract] 5D:S|pg||
+pc|HA|pc|H2|pc|H8|pc|H6|pg||
+pc|HK|pc|H3|pc|H9|pc|D3|pg||
+pc|DK|pc|D6|pc|D8|pc|D2|pg||
+pc|D4|pc|H5|pc|DJ|pc|D9|pg||
+pc|S2|pc|S9|pc|SA|pc|S4|pg||
+pc|SK|pc|S7|pc|S5|pc|ST|pg||
+pc|S3|pc|S8|pc|SJ|pc|SQ|pg||
+pc|CJ|pc|CA|pc|C6|pc|C4|pg||
+pc|D5|pc|C2|pc|DA|pc|HT|pg||
+pc|S6|pc|CT|pc|CQ|pc|H7|pg||
+mc|11|at|
+[Result] 11+600|pg||
+
+qx|o5|md|3S52HA75432DA62CAQ,SQJT9HKJ9DJ7CK762,SA87HQT6DKQ53C943|sv|N|
+sk|S|rh||ah|Board 5|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Alleinspiel|at|
+[Event] Schnitte - Uebung|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1HP3HP4HPPP|at|
+[Contract] 4H:S|pg||
+pc|SQ|pc|SA|pc|S6|pc|S2|pg||
+pc|H6|pc|H8|pc|HA|pc|H9|pg||
+pc|H2|pc|HK|pc|HT|pc|S3|pg||
+pc|SJ|pc|S7|pc|S4|pc|S5|pg||
+pc|ST|pc|S8|pc|SK|pc|H3|pg||
+pc|H4|pc|HJ|pc|HQ|pc|C5|pg||
+pc|D3|pc|D4|pc|DA|pc|D7|pg||
+pc|D2|pc|DJ|pc|DK|pc|D8|pg||
+pc|DQ|pc|D9|pc|D6|pc|C2|pg||
+pc|C3|pc|C8|pc|CQ|pc|CK|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o6|md|4SA63HK752DAK9CK32,SK4HQJT98DQ62CJ54,SQJ52HA4D7543CA98|sv|E|
+sk|S|rh||ah|Board 6|
+nt|[Location] BRIDGE PIRAT Spieltechnik - Alleinspiel|at|
+[Event] Schnitte - Uebung|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP2C|an|Stayman: Frage nach 4er Oberfarbe.|mb|P2HP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|HQ|pc|HA|pc|H3|pc|H2|pg||
+pc|S2|pc|S7|pc|SA|pc|S4|pg||
+pc|S3|pc|SK|pc|S5|pc|S8|pg||
+mc|9|at|
+[Result] 9+400|pg||
+</lin>
+

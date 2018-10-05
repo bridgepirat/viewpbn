@@ -1,0 +1,159 @@
+% LIN created by BFC.EXE MY\BREINBAA.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+% vg|BRIDGE PIRAT, Einfuehrungskurs - Beispiele A,P,1,7,Nord,0,Ost,0|
+rs|5NS=,,3NS=,,4HS=,,4SS=,,4HS=,,2SS=,,4SS=,,4HS=,,|
+qx|o1|md|1SAK8HK76DAJ2CQT86,SQJT9HJT98D9876CA,S432HAQ2DKQTCKJ97|sv|0|
+sk||rh||ah|Board 1|at|Einfuehrungskurs|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|5N|an|Reizung Minibridge.|mb|PPP|at|
+[Contract] 5N:S|pg||
+pc|SQ|pc|S2|pc|S5|pc|SA|pg||
+pc|C6|pc|CA|pc|C7|pc|C2|pg||
+pc|SJ|pc|S3|pc|S6|pc|SK|pg||
+pc|CQ|pc|D6|pc|C9|pc|C3|pg||
+pc|CT|pc|D7|pc|CJ|pc|C4|pg||
+pc|CK|pc|C5|pc|C8|pc|D8|pg||
+pc|HA|pc|H3|pc|H6|pc|H8|pg||
+pc|HQ|pc|H4|pc|H7|pc|H9|pg||
+pc|H2|pc|H5|pc|HK|pc|HT|pg||
+pc|D2|pc|D9|pc|DK|pc|D3|pg||
+pc|DQ|pc|D4|pc|DJ|pc|HJ|pg||
+pc|DT|pc|D5|pc|DA|pc|S9|pg||
+pc|S8|pc|ST|pc|S4|pc|S7|pg||
+mc|11|at|
+[Result] 11+460|pg||
+
+qx|o2|md|4SKQHAKQDQJT987CAK,SA32HJT987DAKC987,SJT9H2D5432C65432|sv|0|
+sk||rh||ah|Board 2|at||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P3N|an|Reizung Minibridge.|mb|PPP|at|
+[Contract] 3N:S|pg||
+pc|HJ|pc|H2|pc|H3|pc|HA|pg||
+pc|DQ|pc|DA|pc|D2|pc|D6|pg||
+pc|HT|pc|C2|pc|H4|pc|HK|pg||
+pc|DJ|pc|DK|pc|D3|pc|S4|pg||
+pc|H9|pc|C3|pc|H5|pc|HQ|pg||
+pc|DT|pc|S2|pc|D4|pc|S5|pg||
+pc|D9|pc|S3|pc|D5|pc|S6|pg||
+pc|D8|pc|C7|pc|C4|pc|S7|pg||
+pc|D7|pc|C8|pc|C5|pc|S8|pg||
+pc|CA|pc|C9|pc|C6|pc|CT|pg||
+pc|CK|pc|H7|pc|S9|pc|CJ|pg||
+pc|SK|pc|SA|pc|ST|pc|H6|pg||
+pc|H8|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o3|md|3S972HAKQ4DAT83C54,SJ43H932D65CKQJ98,SAKTHJT65DKQJC763|sv|E|
+sk||rh||ah|Board 3|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1D|an|Ich eroeffne mit Karo.|mb|P1H|an|Ich biete Coeur.|mb|P2H|an|Eroeffner unterstuetzt Coeur.|mb|P4H|an|Sued hat Werte fuer Vollspiel.|mb|PPP|at|
+[Contract] 4H:S|pg||
+pc|CK|pc|C3|pc|CT|pc|C4|pg||
+pc|CQ|pc|C6|pc|C2|pc|C5|pg||
+pc|CJ|pc|C7|pc|CA|pc|H4|pg||
+pc|HA|pc|H2|pc|H5|pc|H7|pg||
+pc|HK|pc|H3|pc|H6|pc|H8|pg||
+pc|HQ|pc|H9|pc|HT|pc|S5|pg||
+pc|D3|pc|D5|pc|DK|pc|D2|pg||
+pc|DQ|pc|D4|pc|D8|pc|D6|pg||
+pc|DJ|pc|D7|pc|DA|pc|C8|pg||
+pc|DT|pc|C9|pc|ST|pc|D9|pg||
+pc|S2|pc|S3|pc|SA|pc|S6|pg||
+pc|SK|pc|S8|pc|S7|pc|S4|pg||
+pc|HJ|pc|SQ|pc|S9|pc|SJ|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o4|md|1SAK2HKQJT32D32CQJ,SQT8765H7DJ8CAKT9,S43H986DAK54C5432|sv|B|
+sk||rh||ah|Board 4|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1H|an|Ich eroeffne mit Coeur (zeigt 5er Laenge).|mb|P2H|an|Nord bestaetigt Coeur mit 8P.|mb|P4H|an|Sued sagt Vollspiel an.|mb|PPP|at|
+[Contract] 4H:S|pg||
+pc|CA|pc|C2|pc|C6|pc|CJ|pg||
+pc|CK|pc|C3|pc|C7|pc|CQ|pg||
+pc|CT|pc|C4|pc|C8|pc|H2|pg||
+pc|SA|pc|s5|pc|s3|pc|s9|pg||
+pc|SK|pc|S6|pc|S4|pc|SJ|pg||
+pc|S2|pc|S7|pc|H9|pc|D6|pg||
+pc|H6|pc|H4|pc|HT|pc|H7|pg||
+pc|HK|pc|S8|pc|H8|pc|HA|pg||
+pc|DT|pc|D2|pc|D8|pc|DA|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o5|md|4SAQT75H43DKQTCQ63,S96HKQ7D985CKT742,SKJ43HJ62DJ643CJ5|sv|N|
+sk||rh||ah|Board 5|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1H1S2H2SPPP|at|
+[Contract] 2S:S|pg||
+pc|HK|pc|H2|pc|H9|pc|H3|pg||
+pc|HQ|pc|H6|pc|H5|pc|H4|pg||
+pc|H7|pc|HJ|pc|HA|pc|S5|pg||
+pc|S7|pc|S6|pc|SK|pc|S2|pg||
+pc|S3|pc|S8|pc|SA|pc|S9|pg||
+pc|DK|pc|D5|pc|D3|pc|DA|pg||
+pc|D7|pc|DQ|pc|D8|pc|D4|pg||
+pc|DT|pc|D9|pc|D6|pc|D2|pg||
+pc|C3|pc|C4|pc|CJ|pc|CA|pg||
+pc|C9|pc|CQ|pc|CK|pc|C5|pg||
+mc|8|at|
+[Result] 8+110|pg||
+
+qx|o6|md|1SA87654HQ7DAKCJ32,S3HAKT543DQ2CK987,SKJ2H986DJ543CAQT|sv|E|
+sk||rh||ah|Board 6|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1S2H3SP4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HA|pc|H6|pc|H2|pc|H7|pg||
+pc|HK|pc|H8|pc|HJ|pc|HQ|pg||
+pc|HT|pc|H9|pc|D6|pc|S4|pg||
+pc|SA|pc|S3|pc|S2|pc|S9|pg||
+pc|S5|pc|H3|pc|SK|pc|ST|pg||
+pc|D3|pc|D7|pc|DA|pc|D2|pg||
+pc|CJ|pc|C7|pc|CT|pc|C4|pg||
+pc|C2|pc|C8|pc|CQ|pc|C5|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o7|md|2S93HAKQ873DQ5CA53,SKQJ874H2DKT8CQJT,S62H954DAJ432CK72|sv|B|
+sk||rh||ah|Board 7|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT|at|
+[Event] Einfuehrungskurs - Beispiele A|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1SP2S3HP4HPPP|at|
+[Contract] 4H:S|pg||
+pc|SK|pc|S2|pc|ST|pc|S3|pg||
+pc|SQ|pc|S6|pc|S5|pc|S9|pg||
+pc|CQ|pc|C2|pc|C4|pc|CA|pg||
+pc|HA|pc|H2|pc|H4|pc|H6|pg||
+pc|HK|pc|S4|pc|H5|pc|HT|pg||
+pc|HQ|pc|S7|pc|H9|pc|HJ|pg||
+pc|DQ|pc|DK|pc|DA|pc|D6|pg||
+pc|DJ|pc|D7|pc|D5|pc|D8|pg||
+pc|D2|pc|D9|pc|H3|pc|DT|pg||
+pc|C3|pc|CT|pc|CK|pc|C6|pg||
+mc|11|at|
+[Result] 11+650|pg||
+

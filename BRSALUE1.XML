@@ -1,0 +1,119 @@
+% LIN created by BFC.EXE MY\BRSALUE1.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT, Sans Atout Leiter - Uebung,P,1,6,Nord,0,Ost,0|
+rs|3NS=,,2NS+1,,3NS=,,2HN=,,3NS=,,3NS=,,|
+qx|o1|md|3SAKHAJ97D865CA754,SJT986HKT8DQ4CK86,SQ73H65DAK732CJ32|sv|0|
+sk||rh||ah|Board 1|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Reizung|at|
+[Event] Sans Atout Leiter - Uebung|at|
+[Scoring] I|pn|S,W,N,E|pf|y|
+mb|PP1N|an|Staerke und Verteilung passen fuer 1SA-Eroeffnung|mb|P3N|an|Nord hat Werte fuer Vollspiel|mb|PPP|at|
+[Contract] 3N:S|pg||
+pc|SJ|pc|S3|pc|S2|pc|SA|pg||
+pc|D8|pc|D4|pc|D2|pc|D9|pg||
+pc|S5|pc|SK|pc|S6|pc|S7|pg||
+pc|D6|pc|DQ|pc|DK|pc|DT|pg||
+pc|DA|pc|DJ|pc|D5|pc|C6|pg||
+pc|D7|pc|H2|pc|C4|pc|H8|pg||
+pc|D3|pc|S4|pc|C5|pc|S8|pg||
+pc|SQ|pc|H3|pc|C7|pc|C8|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o2|md|4SAK5HA52DATCKQT52,SQ2HK97DK9742C864,S9763HT43DJ65CJ93|sv|N|
+sk||rh||ah|Board 2|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Reizung|at|
+[Event] Sans Atout Leiter - Uebung|at|
+[Scoring] I|pn|S,W,N,E|pf|y|
+mb|P2N|an|5-3-3-2 Vert. mit 5er Unterfarbe ist ok fuer SA-Eroeffnung|mb|PPP|at|
+[Contract] 2N:S|pg||
+pc|D4|pc|D5|pc|DQ|pc|DA|pg||
+pc|C2|pc|C4|pc|CJ|pc|CA|pg||
+pc|D8|pc|DT|pc|DK|pc|D6|pg||
+pc|D2|pc|DJ|pc|D3|pc|H2|pg||
+pc|C9|pc|C7|pc|C5|pc|C6|pg||
+pc|C3|pc|H6|pc|CK|pc|C8|pg||
+mc|9|at|
+[Result] 9+150|pg||
+
+qx|o3|md|1SAJHAQ5DT65CAJ985,SQ763HKJ964DJ8CK2,ST52H832DAK72CQT7|sv|E|
+sk||rh||ah|Board 3|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Reizung|at|
+[Event] Sans Atout Leiter - Uebung|at|
+[Scoring] I|pn|S,W,N,E|pf|y|
+mb|1NP2N|an|mit 9FP laedt Nord zum Vollspiel ein.|mb|P3NPPP|at|
+[Contract] 3N:S|pg||
+pc|H6|pc|H2|pc|HT|pc|HQ|pg||
+pc|D5|pc|D8|pc|DK|pc|D4|pg||
+pc|CQ|pc|C3|pc|C5|pc|CK|pg||
+pc|HK|pc|H3|pc|H7|pc|HA|pg||
+pc|C8|pc|C2|pc|CT|pc|C4|pg||
+pc|C7|pc|C6|pc|C9|pc|S3|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o4|md|2SAQ7HJ6DKQ72CJ985,SJT5H972DAJ96CA43,SK4HKQT84D843CT76|sv|B|
+sk||rh||ah|Board 4|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Reizung|at|
+[Event] Sans Atout Leiter - Uebung|at|
+[Scoring] I|pn|S,W,N,E|pf|y|
+mb|PPP1D|an|Staerke nicht ausreichend fuer 1SA Eroeffnung.|mb|P1HP1N|an|Das 1SA-Rueckgebot zeigt 12-14FP|mb|P2HPPP|at|
+[Contract] 2H:N|pg||
+pc|DT|pc|DK|pc|DA|pc|D3|pg||
+pc|D9|pc|D4|pc|D5|pc|DQ|pg||
+pc|S7|pc|S5|pc|SK|pc|S2|pg||
+pc|S4|pc|S3|pc|SA|pc|ST|pg||
+pc|SQ|pc|SJ|pc|D8|pc|S6|pg||
+pc|HJ|pc|H2|pc|H4|pc|HA|pg||
+pc|CK|pc|C5|pc|C4|pc|C6|pg||
+pc|CQ|pc|C8|pc|C3|pc|C7|pg||
+pc|C2|pc|C9|pc|CA|pc|CT|pg||
+pc|DJ|pc|H8|pc|S8|pc|D2|pg||
+mc|8|at|
+[Result] 8+110|pg||
+
+qx|o5|md|3SAK7HK84DA86CKQT2,SQJT54H976DQ72C76,S63HQJT3DJ943CA43|sv|N|
+sk||rh||ah|Board 5|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Reizung|at|
+[Event] Sans Atout Leiter - Uebung|at|
+[Scoring] I|pn|S,W,N,E|pf|y|
+mb|PP1C|an|Zu stark fuer 1SA-Eroeffnung|mb|P1HP2N|an|Sprung auf 2SA im Rueckgebot zeigt 18-19FL|mb|P3NPPP|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|S3|pc|S2|pc|SA|pg||
+pc|H4|pc|H6|pc|HT|pc|HA|pg||
+pc|S9|pc|SK|pc|S4|pc|S6|pg||
+pc|HK|pc|H7|pc|H3|pc|H2|pg||
+pc|H8|pc|H9|pc|HJ|pc|H5|pg||
+pc|HQ|pc|S8|pc|D6|pc|D2|pg||
+pc|CA|pc|C5|pc|C2|pc|C6|pg||
+pc|C3|pc|C8|pc|CK|pc|C7|pg||
+mc|9|at|
+[Result] 9+600|pg||
+
+qx|o6|md|4SAQJHA52DAKQCQJ74,SK653HKQJ86D963C5,ST74H94DJ54CAT962|sv|E|
+sk||rh||ah|Board 6|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT Reizung|at|
+[Event] Sans Atout Leiter - Uebung|at|
+[Scoring] I|pn|S,W,N,E|pf|y|
+mb|P2C|an|Sued startet mit Semiforcing 2Treff=20-23FL|mb|P2DP2N|an|Rueckgebot 2SA zeigt genau 22-23 SA-Blatt|mb|P3NPPP|at|
+[Contract] 3N:S|pg||
+pc|HK|pc|H4|pc|H3|pc|H2|pg||
+pc|HQ|pc|H9|pc|H7|pc|H5|pg||
+pc|HJ|pc|S4|pc|HT|pc|HA|pg||
+pc|CQ|pc|C5|pc|C2|pc|C3|pg||
+pc|CJ|pc|D9|pc|C6|pc|CK|pg||
+pc|S9|pc|SA|pc|S6|pc|S7|pg||
+pc|C7|pc|S3|pc|C9|pc|C8|pg||
+mc|9|at|
+[Result] 9+400|pg||
+</lin>
+
