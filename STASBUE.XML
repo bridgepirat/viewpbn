@@ -1,0 +1,355 @@
+% LIN created by BFC.EXE MY\STASBUE.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT,Alleinspiel Basis - Uebung,P,1,20,Nord,0,Ost,0|rs|3NS+1,,3NS=,,3NS=,,3NS=,,3NS=,,3NS=,,4HS=,,4SS=,,4HS=,,4SS=,,6HS=,,5DS=,,4HS=,,6SS=,,3NS=,,3NS=,,3NS=,,3NS+1,,4SS=,,6SS=,,|
+qx|o1|md|3S632HAK8DAK32C752,SQJT84HJ7DQTCAT98,SAKH543D754CKQJ63|sv|0|
+sk|S|rh||ah|Board 1|mn|Farbbehandlung|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1CP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|SK|pc|S5|pc|S2|pg||
+pc|D4|pc|D6|pc|DK|pc|DT|pg||
+pc|C2|pc|C8|pc|CJ|pc|C4|pg||
+pc|H3|pc|H2|pc|HA|pc|H7|pg||
+pc|C5|pc|C9|pc|CQ|pc|H6|pg||
+pc|D5|pc|D8|pc|DA|pc|DQ|pg||
+pc|C7|pc|CA|pc|C3|pc|S7|pg||
+pc|SJ|pg||
+mc|10|at|
+[Result] 10+430|pg||
+
+qx|o2|md|4SA32HK43DQJ63CAK3,SQJT97H972D4CQT92,SK84HA65DA752C864|sv|N|
+sk|S|rh||ah|Board 2|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|S4|pc|S5|pc|SA|pg||
+pc|D3|pc|D4|pc|DA|pc|D8|pg||
+pc|D2|pc|D9|pc|DJ|pc|H7|pg||
+pc|H3|pc|H2|pc|HA|pc|H8|pg||
+pc|D5|pc|DK|pc|D6|pc|C2|pg||
+mc|9|at|
+[Result] 9+600|pg||
+
+qx|o3|md|1SAQTHJ64DQJ43CAQJ,SK9765H932D7CK653,S432HAKQDK652C972|sv|E|
+sk|S|rh||ah|Board 3|mn|Spielplan SA|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|S6|pc|S2|pc|SJ|pc|SQ|pg||
+pc|H4|pc|H2|pc|HQ|pc|H5|pg||
+pc|D2|pc|D8|pc|DJ|pc|D7|pg||
+pc|H6|pc|H3|pc|HK|pc|H7|pg||
+pc|D5|pc|D9|pc|DQ|pc|C6|pg||
+pc|HJ|pc|H9|pc|HA|pc|H8|pg||
+pc|C2|pc|C4|pc|CJ|pc|CK|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o4|md|2SQ65HK4D732CKJ976,S973HQJT96D95CAQ5,SAJHA32DAKQJTCT82|sv|B|
+sk|S|rh||ah|Board 4|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1DP1NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|HQ|pc|HA|pc|H5|pc|H4|pg||
+pc|SA|pc|S2|pc|S5|pc|S3|pg||
+pc|SJ|pc|SK|pc|S6|pc|S7|pg||
+pc|H8|pc|HK|pc|H6|pc|H2|pg||
+mc|9|at|
+[Result] 9+600|pg||
+
+qx|o5|md|3SK95H642DAQJ4CA42,ST7H97DK9875CJ976,S632HAKJ8DT62CKQ3|sv|N|
+sk|S|rh||ah|Board 5|mn|Abducken in SA|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1C1S3NPPP|at|
+[Contract] 3N:S|pg||
+pc|ST|pc|S2|pc|S8|pc|S5|pg||
+pc|S7|pc|S3|pc|SA|pc|S9|pg||
+pc|SQ|pc|SK|pc|D5|pc|S6|pg||
+pc|C2|pc|C6|pc|CQ|pc|C5|pg||
+pc|DT|pc|D3|pc|D4|pc|DK|pg||
+mc|9|at|
+[Result] 9+600|pg||
+
+qx|o6|md|2SK54HKJ7DJ64CAQJ2,S86HAT8643D52CK93,SAQ32H92DAQT97C54|sv|E|
+sk|S|rh||ah|Board 6|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2H|an|Weak Two; 6er Laenge, 6-10FL|mb|DP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|H6|pc|H9|pc|HQ|pc|H7|pg||
+pc|H5|pc|HJ|pc|HA|pc|H2|pg||
+pc|H3|pc|C4|pc|D3|pc|HK|pg||
+pc|DJ|pc|D2|pc|D7|pc|DK|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o7|md|1S72HAQ654DAK7CA64,SJT8HJT9DQT96CKJ3,SKQ54HK72D8542C75|sv|B|
+sk|S|rh||ah|Board 7|mn|Spielplan Farbe|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1HP2HP4HPPP|at|
+[Contract] 4H:S|pg||
+pc|HJ|pc|HK|pc|H3|pc|H4|pg||
+pc|C5|pc|C8|pc|C4|pc|CJ|pg||
+pc|HT|pc|H2|pc|H8|pc|HA|pg||
+pc|CA|pc|C3|pc|C7|pc|C2|pg||
+pc|C6|pc|CK|pc|H7|pc|C9|pg||
+pc|D2|pc|D3|pc|DA|pc|D6|pg||
+pc|HQ|pc|H9|pc|S4|pc|CT|pg||
+pc|S2|pc|S8|pc|SQ|pc|SA|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o8|md|4SQJ86HA65DAJ7CAJ5,S93HQJT9DQT9CK643,SAK7542H742D652CQ|sv|0|
+sk|S|rh||ah|Board 8|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP2H|an|Transfer.|mb|P2SP4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HQ|pc|H2|pc|H8|pc|HA|pg||
+pc|SQ|pc|S3|pc|S2|pc|ST|pg||
+pc|S6|pc|S9|pc|SK|pc|C7|pg||
+pc|CQ|pc|C2|pc|C5|pc|CK|pg||
+pc|HJ|pc|H4|pc|H3|pc|H5|pg||
+pc|HT|pc|H7|pc|HK|pc|H6|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o9|md|3ST86HKQ6543DAK8CA,S95HJT8DQJT6CK864,SQ3HA72D7542CJ753|sv|E|
+sk|S|rh||ah|Board 9|mn|Schnapper|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P2S|an|Weak Two; 6er Laenge, 6-10FL|mb|DP2NP3HP4HPPP|at|
+[Contract] 4H:S|pg||
+pc|S9|pc|S3|pc|SJ|pc|S6|pg||
+pc|H9|pc|HK|pc|H8|pc|H2|pg||
+pc|S8|pc|S5|pc|SQ|pc|SK|pg||
+pc|D9|pc|DA|pc|DT|pc|D2|pg||
+pc|ST|pc|HT|pc|HA|pc|S2|pg||
+pc|H7|pc|S4|pc|HQ|pc|HJ|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o10|md|2SA76543HA65DAKC62,S8HKQJT74DQ943C97,SKT2H32D865CAJ543|sv|B|
+sk|S|rh||ah|Board 10|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2H|an|Weak Two; 6er Laenge, 6-10FL|mb|PPDP3CP3SP4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HK|pc|H2|pc|H9|pc|H5|pg||
+pc|HQ|pc|H3|pc|H8|pc|HA|pg||
+pc|S3|pc|S8|pc|SK|pc|S9|pg||
+pc|S2|pc|SJ|pc|SA|pc|HT|pg||
+pc|H6|pc|HJ|pc|ST|pc|SQ|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o11|md|1SAHA86542DA42CA54,SKQJTHJ97DJ5CQT93,S8643HKQ3DKT876C6|sv|0|
+sk|S|rh||ah|Board 11|mn|Abwurf von Verlierern|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1HP3HP6HPPP|at|
+[Contract] 6H:S|pg||
+pc|SK|pc|S3|pc|S2|pc|SA|pg||
+pc|H2|pc|H7|pc|HQ|pc|HT|pg||
+pc|HK|pc|S5|pc|H4|pc|H9|pg||
+pc|H3|pc|S7|pc|HA|pc|HJ|pg||
+pc|DA|pc|D5|pc|D6|pc|D3|pg||
+pc|D4|pc|DJ|pc|D7|pc|D9|pg||
+pc|SQ|pc|S4|pc|S9|pc|H5|pg||
+mc|12|at|
+[Result] 12+980|pg||
+
+qx|o12|md|2SA7H8DAQ8653CA764,SQJ9HKT964D9CKQJT,S643HAQ5DKT42C532|sv|N|
+sk|S|rh||ah|Board 12|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1HP2H3DP4DP5DPPP|at|
+[Contract] 5D:S|pg||
+pc|CK|pc|C2|pc|C9|pc|CA|pg||
+pc|D3|pc|D9|pc|DK|pc|D7|pg||
+pc|D2|pc|DJ|pc|DA|pc|H4|pg||
+pc|H8|pc|H6|pc|HQ|pc|H2|pg||
+pc|HA|pc|H3|pc|S7|pc|H9|pg||
+mc|11|at|
+[Result] 11+600|pg||
+
+qx|o13|md|3S7HAKQ952D543CA65,SAT2H864DT86CKQJ9,SQ6543HJTDAKJC732|sv|B|
+sk|S|rh||ah|Board 13|mn|Farbe hochspielen im Dummy|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1HP1SP2HP3HP4HPPP|at|
+[Contract] 4H:S|pg||
+pc|CK|pc|C2|pc|C4|pc|CA|pg||
+pc|S7|pc|S2|pc|S3|pc|S8|pg||
+pc|CT|pc|C5|pc|CJ|pc|C3|pg||
+pc|CQ|pc|C7|pc|C8|pc|C6|pg||
+pc|D6|pc|DA|pc|D7|pc|D3|pg||
+pc|S4|pc|S9|pc|HA|pc|ST|pg||
+pc|H2|pc|H4|pc|HT|pc|H3|pg||
+pc|S5|pc|SJ|pc|HK|pc|SA|pg||
+pc|H5|pc|H6|pc|HJ|pc|H7|pg||
+pc|S6|pc|SK|pc|HQ|pc|C9|pg||
+pc|H9|pc|H8|pc|DJ|pc|D2|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o14|md|4SAK8643HK542D73CA,ST52HT3DKT86CKQJ9,SQ7HAQ7DA9542C872|sv|0|
+sk|S|rh||ah|Board 14|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1SP2DP3SP4SP6SPPP|at|
+[Contract] 6S:S|pg||
+pc|CK|pc|C2|pc|C3|pc|CA|pg||
+pc|S3|pc|S2|pc|SQ|pc|S9|pg||
+pc|S7|pc|SJ|pc|SK|pc|S5|pg||
+pc|SA|pc|ST|pc|C7|pc|C4|pg||
+pc|D3|pc|D6|pc|D2|pc|DJ|pg||
+pc|C5|pc|S4|pc|C9|pc|C8|pg||
+pc|D7|pc|D8|pc|DA|pc|DQ|pg||
+pc|D4|pc|C6|pc|S6|pc|DT|pg||
+pc|H2|pc|H3|pc|HQ|pc|H6|pg||
+pc|D5|pc|CT|pc|S8|pc|DK|pg||
+pc|H4|pc|HT|pc|HA|pc|H8|pg||
+pc|D9|pc|H9|pc|H5|pc|CJ|pg||
+mc|12|at|
+[Result] 12+980|pg||
+
+qx|o15|md|1SAK8H72DAJ85CAK65,SQJ965HJ98DK94CT2,S43HAK543D73C8743|sv|N|
+sk|S|rh||ah|Board 15|mn|Uebergaenge|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1CP1HP2NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|S3|pc|S7|pc|SK|pg||
+pc|H2|pc|H8|pc|H3|pc|HT|pg||
+pc|ST|pc|S8|pc|S6|pc|S4|pg||
+pc|S2|pc|SA|pc|S5|pc|D3|pg||
+pc|H7|pc|H9|pc|HK|pc|H6|pg||
+pc|HA|pc|HQ|pc|D5|pc|HJ|pg||
+mc|9|at|
+[Result] 9+600|pg||
+
+qx|o16|md|2SAJ4HKDA983CA6532,SK9765H543DKQ7CJ8,ST2HAJT98DT642CK4|sv|E|
+sk|S|rh||ah|Board 16|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PPP1CP1HP2DP2HP2NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|S6|pc|S2|pc|SQ|pc|SA|pg||
+pc|HK|pc|H3|pc|HA|pc|H2|pg||
+pc|HJ|pc|HQ|pc|C2|pc|H4|pg||
+pc|S8|pc|S4|pc|SK|pc|ST|pg||
+pc|S9|pc|D2|pc|S3|pc|SJ|pg||
+pc|C3|pc|C8|pc|CK|pc|C7|pg||
+pc|HT|pc|H6|pc|C5|pc|H5|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o17|md|3SA84HA8DT96CKQJT7,S75H96432D32CA862,SQ62HK75DAKJ75C95|sv|0|
+sk|S|rh||ah|Board 17|mn|1. Stich|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1D1S2CP2DP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|S7|pc|S2|pc|S9|pc|S4|pg||
+pc|HQ|pc|H8|pc|H4|pc|HK|pg||
+pc|C9|pc|C4|pc|C7|pc|C2|pg||
+pc|C5|pc|C3|pc|CT|pc|CA|pg||
+pc|S5|pc|SQ|pc|SK|pc|SA|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o18|md|4SAT5HKQ32D843CAQ4,SQ97642HA84D2C753,SJ3HJT9DAKJ75CK96|sv|N|
+sk|S|rh||ah|Board 18|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|S6|pc|S3|pc|SK|pc|SA|pg||
+pc|H2|pc|H4|pc|HJ|pc|H5|pg||
+pc|HT|pc|H6|pc|H3|pc|HA|pg||
+pc|SQ|pc|SJ|pc|S8|pc|S5|pg||
+pc|S9|pc|D5|pc|D6|pc|ST|pg||
+mc|10|at|
+[Result] 10+630|pg||
+
+qx|o19|md|1SK97652HAKDK95CK4,STHQJT73DJ86CAJ82,SA84H84DA432C7653|sv|E|
+sk|S|rh||ah|Board 19|mn|Chancen kombinieren|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Süd,West,Nord,Ost|pf|y|
+mb|1SP2SP4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HQ|pc|H4|pc|H2|pc|HA|pg||
+pc|SK|pc|ST|pc|S4|pc|S3|pg||
+pc|S2|pc|H3|pc|SA|pc|SJ|pg||
+pc|D2|pc|D7|pc|D9|pc|DJ|pg||
+pc|HJ|pc|H8|pc|H5|pc|HK|pg||
+pc|DK|pc|D6|pc|D3|pc|DT|pg||
+pc|D5|pc|D8|pc|DA|pc|DQ|pg||
+pc|D4|pc|H6|pc|C4|pc|C2|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o20|md|2SA87543HAQD6CAK42,SJT9HK983DAT4C963,SKQ2H6542DK753CQJ|sv|B|
+sk|S|rh||ah|Board 20|mn||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat|at|
+[Event] Alleinspiel Basis - Uebungen|at|
+[Scoring] I|pn|Süd,West,Nord,Ost|pf|y|
+mb|PPP1SP3SP6SPPP|at|
+[Contract] 6S:S|pg||
+pc|SJ|pc|SQ|pc|S6|pc|S3|pg||
+pc|SK|pc|D2|pc|S4|pc|ST|pg||
+pc|S2|pc|D8|pc|SA|pc|S9|pg||
+pc|D6|pc|DA|pc|D3|pc|D9|pg||
+mc|12|at|
+[Result] 12+1430|pg||
+</lin>
+
