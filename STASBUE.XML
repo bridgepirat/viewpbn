@@ -323,7 +323,7 @@ sk|S|rh||ah|Board 19|mn|Chancen kombinieren|
 nt|[Date] 2016|at|
 [Location] Bridge Pirat|at|
 [Event] Alleinspiel Basis - Uebungen|at|
-[Scoring] I|pn|Süd,West,Nord,Ost|pf|y|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
 mb|1SP2SP4SPPP|at|
 [Contract] 4S:S|pg||
 pc|HQ|pc|H4|pc|H2|pc|HA|pg||
@@ -342,7 +342,7 @@ sk|S|rh||ah|Board 20|mn||
 nt|[Date] 2016|at|
 [Location] Bridge Pirat|at|
 [Event] Alleinspiel Basis - Uebungen|at|
-[Scoring] I|pn|Süd,West,Nord,Ost|pf|y|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
 mb|PPP1SP3SP6SPPP|at|
 [Contract] 6S:S|pg||
 pc|SJ|pc|SQ|pc|S6|pc|S3|pg||
