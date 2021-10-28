@@ -4,7 +4,7 @@
 % DDS 8.85 
 <lin>
 vg|BRIDGE PIRAT, Reizung A1 - Uebung,P,1,12,Nord,0,Ost,0|
-rs|3NS=,,$SS+1,,2HS=,,4SS+1,,4SS=,,3NS+2,,3NS=,,4SS+1,,2SS=,,4SS+1,,4SS+1,,3NN+1,,|
+rs|3NS=,,4SS+1,,2HS=,,4SS+1,,4SS=,,3NS+2,,3NS=,,4SS+1,,2SS=,,4SS+1,,4SS+1,,3NN+1,,|
 qx|o1|md|3SK63HA754DQJTCAK6,SQJT72H32DA85CT87,SA85HK8DK973C5432|sv|0|
 sk||rh||ah|Board 1|mn|Eroeffnungen|
 nt|[Date] 2016|at|
