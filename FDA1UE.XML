@@ -1,0 +1,214 @@
+% LIN created by BFC.EXE MY\FDA1UE.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT, Reizung A1 - Uebung,P,1,12,Nord,0,Ost,0|
+rs|3NS=,,$SS+1,,2HS=,,4SS+1,,4SS=,,3NS+2,,3NS=,,4SS+1,,2SS=,,4SS+1,,4SS+1,,3NN+1,,|
+qx|o1|md|3SK63HA754DQJTCAK6,SQJT72H32DA85CT87,SA85HK8DK973C5432|sv|0|
+sk||rh||ah|Board 1|mn|Eroeffnungen|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1NP3N|an|Werte fuer Vollspiel, ohne INteresse an Oberfarbe.|mb|PPP|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|S5|pc|S4|pc|SK|pg||
+pc|DQ|pc|DA|pc|D3|pc|D2|pg||
+pc|SJ|pc|SA|pc|S9|pc|S3|pg||
+mc|9|at|
+[Result] 9+400|pg||
+
+qx|o2|md|4SKQ63HA7DQJT9CAJ4,SA5HQJT9DK75CT973,SJT72HK864DA83C52|sv|N|
+sk||rh||ah|Board 2|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP2C|an|Stayman, fragt nach 4er OF.|mb|P2S|an|Zeigt 4er Pik, verneint 4er Coeur.|mb|P3S|an|Bestaetigt Fit, einladend.|mb|P4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HQ|pc|HK|pc|H2|pc|H7|pg||
+pc|SJ|pc|S4|pc|S3|pc|SA|pg||
+pc|HJ|pc|H4|pc|H3|pc|HA|pg||
+pc|SK|pc|S5|pc|S2|pc|S8|pg||
+pc|SQ|pc|C3|pc|S7|pc|S9|pg||
+pc|DQ|pc|DK|pc|DA|pc|D2|pg||
+pc|H6|pc|H5|pc|S6|pc|HT|pg||
+mc|11|at|
+[Result] 11+650|pg||
+
+qx|o3|md|1SA8HA84DKQ42CQT54,SKQJT2HJ7D965CK96,S764HK9632DJ73C73|sv|E|
+sk||rh||ah|Board 3|mn|Antworten auf 1SA|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1NP2D|an|Antworter transferiert auf Coeur.|mb|P2H|an|Sued fuehrt Transfer aus, nicht notwendigerweise Fit.|mb|PP|an|Nord bevorzugt den Coeur-Kontrakt vor SA.|mb|P|at|
+[Contract] 2H:S|pg||
+pc|SK|pc|S4|pc|S3|pc|SA|pg||
+pc|S8|pc|ST|pc|S6|pc|S5|pg||
+pc|HJ|pc|H2|pc|H5|pc|HA|pg||
+pc|H4|pc|H7|pc|HK|pc|HT|pg||
+pc|S7|pc|S9|pc|H8|pc|S2|pg||
+pc|D2|pc|D5|pc|DJ|pc|DA|pg||
+mc|8|at|
+[Result] 8+110|pg||
+
+qx|o4|md|2SQ984HA6DAK75CK86,SK6HQT984D96CA973,SAJT72HJ75DQ83CQ4|sv|B|
+sk||rh||ah|Board 4|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PPP1NP2H|an|Antworter transferiert auf Pik.|mb|P2S|an|Sued fuehrt Transfer aus, nicht notwendigerweise Fit.|mb|P3N|an|Werte fuer Vollspiel, gleichmaessig.|mb|P4S|an|Sued bietet Vollspiel im 5-4 OF-Fit.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|HT|pc|H5|pc|H3|pc|HA|pg||
+pc|SQ|pc|S6|pc|S2|pc|S3|pg||
+pc|S9|pc|SK|pc|SA|pc|S5|pg||
+pc|D3|pc|D2|pc|DK|pc|D6|pg||
+pc|C6|pc|CA|pc|C4|pc|C2|pg||
+pc|H9|pc|HJ|pc|HK|pc|H6|pg||
+mc|11|at|
+[Result] 11+650|pg||
+
+qx|o5|md|3SA9852HQ95DK5CAQ9,SQJ7HKT7DQJT8C732,SKT64H84DA942CJT5|sv|N|
+sk||rh||ah|Board 5|mn|Antworten auf Oberfarb-Eroeffnung|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1SP3S|an|Einladend mit Pik-Fit.|mb|P4S|an|mehr als Minimum, daher Vollspiel.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|DQ|pc|D2|pc|D3|pc|DK|pg||
+pc|SA|pc|S7|pc|S4|pc|S3|pg||
+pc|S2|pc|SJ|pc|SK|pc|D7|pg||
+pc|CJ|pc|C4|pc|C9|pc|C2|pg||
+pc|C5|pc|C6|pc|CQ|pc|C3|pg||
+pc|D5|pc|DT|pc|DA|pc|D6|pg||
+pc|H4|pc|HA|pc|H5|pc|H7|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o6|md|4SKQJT6HQ63DATCA42,SA87H874DK9754CJ6,S94HAKJ5DJ82CK975|sv|E|
+sk||rh||ah|Board 6|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1SP2C|an|Nord belegt nicht sofort SA, um Coeur-Fit nicht auszuschliessen.|mb|P2N|an|Das 2SA-Rueckgebot zeigt ca. 15-17FL.|mb|P3NPPP|at|
+[Contract] 3N:S|pg||
+pc|D5|pc|D2|pc|DQ|pc|DA|pg||
+pc|S6|pc|S7|pc|S9|pc|S2|pg||
+pc|S4|pc|S3|pc|SK|pc|SA|pg||
+pc|DK|pc|D8|pc|D3|pc|DT|pg||
+mc|10|at|
+[Result] 10+430|pg||
+
+qx|o7|md|1SKJ8H82DKQ75CA653,SA96H653D942CQJT7,SQT74HKQJTDA6CK42|sv|B|
+sk||rh||ah|Board 7|mn|Antworten auf Unterfarb-Eroeffnung|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1DP1H|an|Nach UF-Eroeffnung bietet Partner Oberfarben an.|mb|P1N|an|Eroeffner bietet mit gleichmaessigem Blatt SA an.|mb|P3NPPP|at|
+[Contract] 3N:S|pg||
+pc|CQ|pc|C2|pc|C8|pc|CA|pg||
+pc|H2|pc|H3|pc|HT|pc|HA|pg||
+pc|C9|pc|C3|pc|CT|pc|CK|pg||
+pc|S4|pc|S2|pc|SK|pc|SA|pg||
+mc|9|at|
+[Result] 9+600|pg||
+
+qx|o8|md|2SKQT94HA954D7CQJ6,S72HQJT8DT652CA97,SJ853HK72DAQ83CK8|sv|0|
+sk||rh||ah|Board 8|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1DP1S|an|Mit 5-4 in Oberfarbe, die laengere antworten.|mb|P2S|an|Mit 4er Farbe hebt Eroeffner Partners Farbe.|mb|P4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HQ|pc|HK|pc|H6|pc|H4|pg||
+pc|S3|pc|S6|pc|SK|pc|S2|pg||
+pc|SQ|pc|S7|pc|S5|pc|SA|pg||
+pc|H3|pc|HA|pc|H8|pc|H2|pg||
+pc|C6|pc|CA|pc|CK|pc|C2|pg||
+pc|HJ|pc|H7|pc|C3|pc|H5|pg||
+pc|D2|pc|DA|pc|D9|pc|D7|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o9|md|3SA62HAJ6DAQ83CQ64,S9HT93DT965CA9872,SQJ853H752D72CKT5|sv|E|
+sk||rh||ah|Board 9|mn|Grundsaetze der Gegenreizung|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1D1N|an|1SA in gegenreizung 1-18FL, etwa wie 1SA-Eroeffnung.|mb|P2H|an|ANtworten wie nach 1SA-Eroeffnung, incl. Transfer-Gebo.|mb|P2SPPP|at|
+[Contract] 2S:S|pg||
+pc|DT|pc|D2|pc|D4|pc|DQ|pg||
+pc|SA|pc|S9|pc|S3|pc|S4|pg||
+pc|S2|pc|C2|pc|SQ|pc|SK|pg||
+pc|DJ|pc|DA|pc|D5|pc|D7|pg||
+pc|C4|pc|C7|pc|CT|pc|CJ|pg||
+pc|DK|pc|D3|pc|D6|pc|S5|pg||
+pc|H2|pc|HK|pc|HA|pc|H3|pg||
+pc|C6|pc|CA|pc|C5|pc|C3|pg||
+pc|D9|pc|S8|pc|ST|pc|D8|pg||
+mc|8|at|
+[Result] 8+110|pg||
+
+qx|o10|md|4SAKT652HKQ6D8CJT5,SJ9HJT3DJT3C97632,SQ743H8542DA72CA4|sv|B|
+sk||rh||ah|Board 10|mn||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1D1S|an|Gegenreizung auf 1er-Stufe zeigt mind. 5er mit knapper Eroeffnung.|mb|P3S|an|Partner antwortet analog zur Oberfarb-Eroeffnung.|mb|P4SPPP|at|
+[Contract] 4S:S|pg||
+pc|DJ|pc|DA|pc|D9|pc|D8|pg||
+pc|S3|pc|S8|pc|SA|pc|S9|pg||
+pc|S2|pc|SJ|pc|SQ|pc|D4|pg||
+pc|H2|pc|H7|pc|HK|pc|H3|pg||
+pc|C5|pc|C2|pc|CA|pc|C8|pg||
+pc|H4|pc|HA|pc|H6|pc|HT|pg||
+mc|11|at|
+[Result] 11+650|pg||
+
+qx|o11|md|1SK872H8742D54CKQ3,SQT3HAKJT3DKT97C2,SA965H5DAQJ6CAJ76|sv|0|
+sk||rh||ah|Board 11|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1HD|an|Informationskontra, fordert Sue auf zu reizen.|mb|P2S|an|Sprung zeigt 4er Farbe mit ca. 9-11 FL.|mb|P4SPPP|at|
+[Contract] 4S:S|pg||
+pc|HA|pc|H5|pc|H9|pc|H2|pg||
+pc|HK|pc|S5|pc|H6|pc|H4|pg||
+pc|SA|pc|S4|pc|S2|pc|S3|pg||
+pc|S6|pc|SJ|pc|SK|pc|ST|pg||
+pc|D4|pc|D7|pc|DQ|pc|D2|pg||
+pc|C6|pc|C4|pc|CQ|pc|C2|pg||
+pc|D5|pc|D9|pc|DJ|pc|D3|pg||
+pc|DA|pc|D8|pc|H7|pc|DT|pg||
+pc|D6|pc|C5|pc|S7|pc|DK|pg||
+pc|CK|pc|SQ|pc|C7|pc|C8|pg||
+mc|11|at|
+[Result] 11+450|pg||
+
+qx|o12|md|2SJ2HK87D7542CAQ72,SK987HQT9DATCKJT9,SAQT6HAJ4DKQ83C63|sv|N|
+sk||rh||ah|Board 12|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung A1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1CD|an|Informationskontra.|mb|P1N|an|Etwa 8-10FL mit Stopper in Gegnerfarbe.|mb|P2NP3NPPP|at|
+[Contract] 3N:S|pg||
+pc|CJ|pc|C3|pc|C4|pc|CQ|pg||
+pc|D2|pc|DT|pc|DQ|pc|D6|pg||
+pc|H4|pc|H2|pc|HK|pc|H9|pg||
+pc|D4|pc|DA|pc|D8|pc|D9|pg||
+pc|CK|pc|C6|pc|C5|pc|CA|pg||
+pc|SJ|pc|SK|pc|SA|pc|S3|pg||
+mc|10|at|
+[Result] 10+630|pg||
+</lin>
