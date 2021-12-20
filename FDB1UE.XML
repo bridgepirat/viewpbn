@@ -1,0 +1,268 @@
+% LIN created by BFC.EXE MY\FDB1UE.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT, Reizung B1 - Uebung,P,1,14,Nord,0,Ost,0|
+rs|4SS=,,3NS+1,,2NS=,,4SS=,,4HS+1,,6NS=,,1NS=,,4HS=,,1NS+1,,4SS=,,4HS+1,,3NN+1,,2DS=,,3NS+1,|
+qx|o1|md|3SAKJTHAK8DK52CK76,S97HQ93DAJ76CQJT8,SQ863HJ764DT4CA32|sv|0|
+sk||rh||ah|Board 1|at|Starke Eroeffnungen auf 2er Stufe|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP2NP3C|an| Nord fragt mittels Stayman nach 4er Oberfarbe|mb|P3SP4SPPP|at|
+[Contract] 4S:S|pg||
+pc|CQ|pc|C2|pc|C4|pc|CK|pg||
+pc|SA|pc|S7|pc|S3|pc|S2|pg||
+pc|SK|pc|S9|pc|S6|pc|S4|pg||
+pc|SJ|pc|D6|pc|S8|pc|S5|pg||
+pc|HA|pc|H3|pc|H4|pc|H2|pg||
+pc|HK|pc|H9|pc|H6|pc|H5|pg||
+pc|H8|pc|HQ|pc|H7|pc|HT|pg||
+pc|CJ|pc|CA|pc|C5|pc|C6|pg||
+pc|HJ|pc|D3|pc|C7|pc|C8|pg||
+pc|D4|pc|D8|pc|DK|pc|DA|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o2|md|4SK86HA3DAK76CAK54,SQJT93HK4D52CQJ86,SA2HQJT92D843C732|sv|N|
+sk||rh||ah|Board 2|at||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P2NP3D|an|Nord transferiert in die 5er Oberfarbe|mb|P3HP3NPP|an|Ohne Fit in Coeur bleibt Sued in 3SA|mb|P|at|
+[Contract] 3N:S|pg||
+pc|SQ|pc|S2|pc|S4|pc|SK|pg||
+pc|HA|pc|H4|pc|H2|pc|H5|pg||
+pc|H3|pc|HK|pc|H9|pc|H6|pg||
+pc|SJ|pc|SA|pc|S5|pc|S6|pg||
+mc|10|at|
+[Result] 10+630|pg||
+
+qx|o3|md|1SAT3HKQ4DAK76CAQ5,SQ4HA98DT82CJT986,S8762HJT32D43C732|sv|E|
+sk||rh||ah|Board 3|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2CP2D|an|Relay-Gebot, Sued soll sich erklaeren.|mb|P2NPP|an|1FP ist zuwenig fuer Vollspiel.|mb|P|at|
+[Contract] 2N:S|pg||
+pc|CJ|pc|C2|pc|CK|pc|CA|pg||
+pc|HK|pc|H8|pc|H2|pc|H5|pg||
+pc|HQ|pc|HA|pc|H3|pc|H6|pg||
+pc|CT|pc|C3|pc|C4|pc|CQ|pg||
+pc|H4|pc|H9|pc|HT|pc|H7|pg||
+pc|HJ|pc|S5|pc|C5|pc|D2|pg||
+mc|8|at|
+[Result] 8+120|pg||
+
+qx|o4|md|2SKQJT95HAQ9DAK7C7,SA3HK542DT82CJT98,S876HJT3DQ95CQ543|sv|B|
+sk||rh||ah|Board 4|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PPP2CP2DP2S|an|Semiforcing (ca. 20-23FL), 5er Laenge.|mb|P4S|an|Werte fuer Vollspiel, kein Schlemminteresse.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|CJ|pc|C3|pc|C6|pc|C7|pg||
+pc|CT|pc|C4|pc|C2|pc|S5|pg||
+pc|SK|pc|SA|pc|S6|pc|S2|pg||
+pc|C9|pc|C5|pc|CK|pc|S9|pg||
+pc|SQ|pc|S3|pc|S7|pc|S4|pg||
+pc|D7|pc|D2|pc|DQ|pc|D3|pg||
+pc|HJ|pc|H6|pc|H9|pc|HK|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o5|md|3S87HJ32D642CT8542,SQ93H876DT75CKQJ6,SAK5HAKQT54DKQJC9|sv|N|
+sk||rh||ah|Board 5|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2DP2H|an|Absage (0-7FL), kuenstliches Gebot.|mb|P3HP4H|an|Sued darf nicht unter Vollspiel passen!|mb|PPP|at|
+[Contract] 4H:S|pg||
+pc|CK|pc|C9|pc|C7|pc|C2|pg||
+pc|CQ|pc|H4|pc|C3|pc|C4|pg||
+pc|HA|pc|H9|pc|H2|pc|H6|pg||
+pc|HK|pc|S2|pc|H3|pc|H7|pg||
+pc|SA|pc|S4|pc|S7|pc|S3|pg||
+pc|SK|pc|S6|pc|S8|pc|S9|pg||
+pc|S5|pc|ST|pc|HJ|pc|SQ|pg||
+pc|C5|pc|C6|pc|HT|pc|CA|pg||
+pc|HQ|pc|D3|pc|D2|pc|H8|pg||
+pc|DK|pc|DA|pc|D4|pc|D5|pg||
+mc|11|at|
+[Result] 11+650|pg||
+
+qx|o6|md|4SAT3HQJ54D75CJ762,SK964HT2D643CT985,SQJ2HAK3DKQJTCAKQ|sv|E|
+sk||rh||ah|Board 6|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PPP2DP2N|an|gleichmaessige Vert.; 8+ FP.|mb|P6N|an|N/S haben zusammen 33FP, daher Kleinschlemm.|mb|PPP|at|
+[Contract] 6N:S|pg||
+pc|CT|pc|CQ|pc|C3|pc|C2|pg||
+pc|DK|pc|DA|pc|D5|pc|D3|pg||
+pc|S5|pc|SA|pc|S6|pc|S2|pg||
+pc|C6|pc|C5|pc|CK|pc|C4|pg||
+pc|CA|pc|S7|pc|C7|pc|C8|pg||
+mc|12|at|
+[Result] 12+990|pg||
+
+qx|o7|md|1S83HA963DKQ6CQT72,SQ2HQJ7DAJT92CK63,SAK964HK54D43CJ98|sv|B|
+sk||rh||ah|Board 7|at|Antworten auf Farbgegenreizungen|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1D1S|an|Gegenreizung zeigt 5er mit mind. 9FL.|mb|P1N|an|1SA-zeigt ca. 8-12FP mit Stop in Gegnerfarbe.|mb|PPP|at|
+[Contract] 1N:S|pg||
+pc|DJ|pc|D3|pc|D5|pc|DQ|pg||
+pc|C2|pc|C3|pc|Cj|pc|CA|pg||
+pc|D8|pc|DK|pc|DA|pc|D4|pg||
+pc|DT|pc|S4|pc|D7|pc|D6|pg||
+pc|D9|pc|S6|pc|C5|pc|H3|pg||
+pc|D2|pc|H4|pc|C4|pc|H6|pg||
+pc|HQ|pc|HK|pc|H2|pc|H9|pg||
+pc|C9|pc|H8|pc|C7|pc|C6|pg||
+pc|C8|pc|S5|pc|CT|pc|CK|pg||
+mc|7|at|
+[Result] 7+90|pg||
+
+qx|o8|md|2S73HAQJ96DAQ9CQT7,SJT98H87DJ75C9632,SQ64HKT43D64CAJ54|sv|0|
+sk||rh||ah|Board 8|at||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1D1HP3H|an|Zeigt 4er Unterstuetzung, Einladung zum Vollspiel.|mb|P4H|an|Sued ist an der oberen Grenze, daher Vollspiel bieten.|mb|PPP|at|
+[Contract] 4H:S|pg||
+pc|SJ|pc|S4|pc|S5|pc|S3|pg||
+pc|ST|pc|S6|pc|S2|pc|S7|pg||
+pc|S9|pc|SQ|pc|SK|pc|H6|pg||
+pc|HA|pc|H7|pc|H3|pc|H2|pg||
+pc|HQ|pc|H8|pc|H4|pc|H5|pg||
+pc|CQ|pc|C2|pc|C4|pc|CK|pg||
+pc|D8|pc|DQ|pc|D7|pc|D4|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o9|md|3SAK64HKQ2DAJ5CKT7,SJT2HT75D432CA542,S875HJ643D97CJ986|sv|E|
+sk||rh||ah|Board 9|at|Antworten auf Info-Kontra|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1DD|an|Zu stark fuer 1SA, daher erst Kontra.|mb|P1H|an|Farbe auf niedrigster Stufe verspricht keinerlei Staerke.|mb|P1N|an|1SA Rueckgebot nach Kontra zeigt ca. 20-22 FP.|mb|PPP|at|
+[Contract] 1N:S|pg||
+pc|D4|pc|D7|pc|DQ|pc|DA|pg||
+pc|HK|pc|H5|pc|H3|pc|H8|pg||
+pc|HQ|pc|H7|pc|H4|pc|H9|pg||
+pc|CK|pc|CA|pc|C6|pc|C3|pg||
+pc|D3|pc|D9|pc|DK|pc|D5|pg||
+pc|DT|pc|DJ|pc|D2|pc|S5|pg||
+pc|CT|pc|C2|pc|C8|pc|CQ|pg||
+pc|D8|pc|S4|pc|C4|pc|S7|pg||
+pc|D6|pc|S6|pc|C5|pc|C9|pg||
+pc|HA|pc|H2|pc|HT|pc|H6|pg||
+mc|7|at|
+[Result] 7+90|pg||
+
+qx|o10|md|4SKJT5H763DQ97CK92,S42HAKJ92DA52CT74,SAQ96HT4DKT8CAQJ5|sv|B|
+sk||rh||ah|Board 10|at||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1HDP2S|an|Sprung in OF zeigt 8-10 mit 4er Laenge.|mb|P4S|an|Nord hat Zusatzwerte, daher Vollspiel.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|HA|pc|H4|pc|H8|pc|H3|pg||
+pc|HK|pc|HT|pc|H5|pc|H6|pg||
+pc|HJ|pc|S6|pc|HQ|pc|H7|pg||
+pc|SA|pc|S3|pc|S5|pc|S2|pg||
+pc|SQ|pc|S7|pc|ST|pc|S4|pg||
+pc|S9|pc|S8|pc|SJ|pc|H2|pg||
+pc|D7|pc|DA|pc|D8|pc|D3|pg||
+pc|H9|pc|DT|pc|C3|pc|SK|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o11|md|1S32HAJT7DKQT6CA65,SKQJT6H43DJ85CKQ8,SA94HKQ65DA74C432|sv|0|
+sk||rh||ah|Board 11|at|Antworten nach Gegenreizung/Teil 1|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1D1SD|an|mit Negativ-Kontra zeigt Nord seine 4er Coeur.|mb|P2H|an|Sued ist aufgefordert seine 4er Coeur zu nennen.|mb|P4HPPP|at|
+[Contract] 4H:S|pg||
+pc|SK|pc|SA|pc|S5|pc|S2|pg||
+pc|HK|pc|H2|pc|H7|pc|H3|pg||
+pc|H5|pc|H8|pc|HT|pc|H4|pg||
+pc|HJ|pc|S6|pc|H6|pc|H9|pg||
+pc|DK|pc|D5|pc|D4|pc|D2|pg||
+pc|D6|pc|D8|pc|DA|pc|D3|pg||
+pc|D7|pc|D9|pc|DQ|pc|DJ|pg||
+pc|DT|pc|ST|pc|C2|pc|S7|pg||
+mc|11|at|
+[Result] 11+450|pg||
+
+qx|o12|md|2S852HAK7DAKT7CT86,S43HT98DJ9852C754,SAJ6H6532DQ6CAQJ9|sv|N|
+sk||rh||ah|Board 12|at||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1C1S2S|an|Nach UF-Eroeffnung fragt Ueberruf nach Stopper.|mb|P2N|an|Nord zeigt mit dem SA-Gebot den Pik-Stopper.|mb|P3NPPP|at|
+[Contract] 3N:N|pg||
+pc|SK|pc|S2|pc|S3|pc|SA|pg||
+pc|DQ|pc|D3|pc|D7|pc|D2|pg||
+pc|D6|pc|D4|pc|DA|pc|D5|pg||
+pc|CT|pc|C4|pc|C9|pc|CK|pg||
+pc|HQ|pc|HA|pc|H8|pc|H2|pg||
+pc|C8|pc|C5|pc|CJ|pc|C2|pg||
+pc|CQ|pc|C3|pc|C6|pc|C7|pg||
+pc|CA|pc|S7|pc|S5|pc|D8|pg||
+pc|H3|pc|H4|pc|HK|pc|H9|pg||
+pc|DK|pc|D9|pc|H5|pc|S9|pg||
+pc|H7|pc|HT|pc|H6|pc|HJ|pg||
+mc|10|at|
+[Result] 10+630|pg||
+
+qx|o13|md|3S432H95DAK9865C93,S985HKJT87D42CJ75,SQJTHAQ643D3CA642|sv|B|
+sk||rh||ah|Board 13|at|Antworten nach Gegenreizung/Teil 2|
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1HD2D|an|Neue Farbe auf 2er Stufe ist non-forcing.|mb|PP|an|Nord hat keine andere Option als diszipliniert zu passen.|mb|P|at|
+[Contract] 2D:S|pg||
+pc|S5|pc|ST|pc|SK|pc|S2|pg||
+pc|SA|pc|S3|pc|S8|pc|SJ|pg||
+pc|CK|pc|C3|pc|C7|pc|CA|pg||
+pc|D3|pc|DT|pc|DA|pc|D2|pg||
+pc|DK|pc|D4|pc|H3|pc|D7|pg||
+pc|D9|pc|S9|pc|H4|pc|DJ|pg||
+pc|CQ|pc|C9|pc|C5|pc|C2|pg||
+mc|8|at|
+[Result] 8+90|pg||
+
+qx|o14|md|4SQ43HAQDKQT95C754,SAK76HK964D6CKT82,SJ92HT87DA87CAQJ6|sv|0|
+sk||rh||ah|Board 14|at||
+nt|[Date] 2016|at|
+[Location] Bridge Pirat - Uebungen|at|
+[Event] Reizung B1|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1DDR|an|Zeigt dass N/S die Punktemehrheit haben (ab 10FP).|mb|1H1N|an|Sued koennte auch passen, da Nord nochmals Reizen kann.|mb|P3NPPP|at|
+[Contract] 3N:S|pg||
+pc|S6|pc|S2|pc|S8|pc|SQ|pg||
+pc|C4|pc|C2|pc|CJ|pc|C3|pg||
+pc|D7|pc|D2|pc|DQ|pc|D6|pg||
+pc|D5|pc|H4|pc|DA|pc|D3|pg||
+pc|D8|pc|D4|pc|DT|pc|H6|pg||
+mc|10|at|
+[Result] 10+430|pg||
+</lin>
