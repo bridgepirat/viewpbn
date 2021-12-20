@@ -1,0 +1,206 @@
+% LIN created by BFC.EXE MY\FDB2UE.PBN LH /ORSIFMY\
+% PBN 2.1
+% EXPORT
+% DDS 8.85 
+<lin>
+vg|BRIDGE PIRAT, Reizung B2 - Uebung,P,1,12,Nord,0,Ost,0|
+rs|3HS=,,4SS=,,4SS=,,3NS=,,3NS+1,,2HS=,,4HS+1,,4SS+1,,4SS+1,,6NS=,,6SS=,,6HN=,,|
+qx|o1|md|1S72HAJT943D42CK83,SKQ43HQ7DJ63CQT74,SJ65HK82DAQ98CJ65|sv|0|
+sk||rh||ah|Board 1|at|Schwache 2er Eroeffnungen|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2HP3H|an|Verlaengerung der Sperre.|mb|PP|an|Keine Einladung, daher klares Pass fuer Sued.|mb|P|at|
+[Contract] 3H:S|pg||
+pc|SK|pc|S5|pc|S9|pc|S2|pg||
+pc|SQ|pc|S6|pc|S8|pc|S7|pg||
+pc|S4|pc|SJ|pc|SA|pc|H3|pg||
+pc|HJ|pc|H7|pc|HK|pc|H5|pg||
+pc|H2|pc|H6|pc|HA|pc|HQ|pg||
+pc|D2|pc|D3|pc|DQ|pc|DK|pg||
+pc|C2|pc|C3|pc|CQ|pc|C5|pg||
+mc|8|at|
+[Result] 8-50|pg||
+
+qx|o2|md|4SKQT943H4DK74CJ65,S72HJT93DQ92CA842,SA8HQ765DA863CKQ3|sv|N|
+sk||rh||ah|Board 2|at||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P2SP2N|an|Frage nach Staerke, ab 15FV (forcing).|mb|P4S|an|Mit Maximum bietet Sued Vollspiel aus.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|HJ|pc|H5|pc|H8|pc|H4|pg||
+pc|HT|pc|H6|pc|H2|pc|S3|pg||
+pc|S4|pc|S2|pc|SA|pc|S5|pg||
+pc|S8|pc|S6|pc|SQ|pc|S7|pg||
+pc|SK|pc|C2|pc|D3|pc|SJ|pg||
+pc|C5|pc|CA|pc|C3|pc|C7|pg||
+mc|10|at|
+[Result] 10+620|pg||
+
+qx|o3|md|2SKJ862H76D63CKQ72,S5HT9DKQJ9875C943,SQT97HAK43DA4CJ65|sv|E|
+sk||rh||ah|Board 3|at|Sperreroeffnungen|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|3D|an|Sperransage, mind. 7er Laenge.|mb|D|an|Informationskontra mit ordentlicher Eroeffnungsstaerke.|mb|P4S|an|Mit 10FL riskiert Sued Vollspiel.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|DK|pc|DA|pc|DT|pc|D3|pg||
+pc|S7|pc|SA|pc|S2|pc|S5|pg||
+pc|D2|pc|D6|pc|DJ|pc|D4|pg||
+pc|HT|pc|HA|pc|H8|pc|H6|pg||
+pc|ST|pc|S3|pc|S6|pc|D5|pg||
+pc|SQ|pc|S4|pc|S8|pc|D7|pg||
+pc|C5|pc|CA|pc|C2|pc|C3|pg||
+mc|10|at|
+[Result] 10+420|pg||
+
+qx|o4|md|3SKQ98HAJ76DAT3C94,SAJT42HQ853DQ87CQ,S765HTDJ2CAK76532|sv|B|
+sk||rh||ah|Board 4|at||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|3C|an|Sperransage, mind. 7er Laenge.|mb|P3N|an|Gute Eroeffnung und Stopper in Nebenfarben.|mb|PPP|at|
+[Contract] 3N:S|pg||
+pc|SJ|pc|S5|pc|S3|pc|SK|pg||
+pc|C4|pc|CQ|pc|C2|pc|C8|pg||
+pc|SA|pc|S6|pc|D6|pc|S8|pg||
+pc|H3|pc|HT|pc|HK|pc|HA|pg||
+pc|C9|pc|S2|pc|CK|pc|CT|pg||
+pc|CA|pc|CJ|pc|H6|pc|D7|pg||
+pc|C7|pc|H2|pc|H7|pc|D8|pg||
+mc|10|at|
+[Result] 10+630|pg||
+
+qx|o5|md|4SKQ987HK9DAK9C742,SA532HQT4DJ7CT986,SJ4HAJ53DT54CAQJ5|sv|N|
+sk||rh||ah|Board 5|at|Zweite Ansage des Antwortenden|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1SP2CP2N|an|Zeigt Zusatzwerte, (15-17FL).|mb|P3N|an|Nord schliesst mit Vollspiel ab.|mb|PPP|at|
+[Contract] 3N:S|pg||
+pc|CT|pc|CQ|pc|CK|pc|C2|pg||
+pc|D3|pc|DA|pc|D7|pc|D4|pg||
+pc|S7|pc|S2|pc|SJ|pc|S6|pg||
+pc|S4|pc|ST|pc|SQ|pc|SA|pg||
+pc|DJ|pc|D5|pc|D2|pc|DK|pg||
+mc|10|at|
+[Result] 10+630|pg||
+
+qx|o6|md|1SAJT85HQT87D62C42,SQ632HJ3DJ93CQJT8,S74HK962DAK74CA75|sv|E|
+sk||rh||ah|Board 6|at||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1DP1SP1NP2H|an|Sued sucht den Teilkontrakt in Oberfarbe (5-4 Vert.)|mb|PP|an|2Coeur ist non-forcing. mit 4er Anschluss passt Nord.|mb|P|at|
+[Contract] 2H:S|pg||
+pc|CQ|pc|CA|pc|C9|pc|C2|pg||
+pc|H2|pc|H4|pc|HQ|pc|H3|pg||
+pc|H7|pc|HJ|pc|HK|pc|HA|pg||
+pc|H5|pc|H8|pc|C8|pc|H9|pg||
+pc|S4|pc|S9|pc|ST|pc|SQ|pg||
+pc|CJ|pc|C5|pc|C6|pc|C4|pg||
+pc|CT|pc|C7|pc|C3|pc|HT|pg||
+pc|SA|pc|S2|pc|S7|pc|SK|pg||
+mc|10|at|
+[Result] 10+170|pg||
+
+qx|o7|md|2SJT95HKQ986DA8C96,SA643H54DJT95CT42,SKQ8HJT7DKQ74CA73|sv|B|
+sk||rh||ah|Board 7|at|Antworten auf 1SA/2SA|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP2C|an|Stayman geht vor Transfer (wenn mind. einladend).|mb|P2DP3H|an|Zeigt 4-5 in OF, forciert zum Vollspiel.|mb|P4HPPP|at|
+[Contract] 4H:S|pg||
+pc|DJ|pc|D4|pc|D2|pc|DA|pg||
+pc|H6|pc|H4|pc|HJ|pc|HA|pg||
+pc|CK|pc|C6|pc|C2|pc|CA|pg||
+pc|HT|pc|H2|pc|H8|pc|H5|pg||
+pc|H7|pc|H3|pc|HK|pc|S3|pg||
+pc|D8|pc|D5|pc|DK|pc|D3|pg||
+pc|DQ|pc|D6|pc|C9|pc|D9|pg||
+mc|11|at|
+[Result] 11+650|pg||
+
+qx|o8|md|3SKQ9865HJ7DQ8CAK5,SATH543DT632CJT97,SJ43HKQ98DAK75CQ8|sv|0|
+sk||rh||ah|Board 8|at||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|1NP3S|an|Zeigt 6er Laenge mit Schlemminteresse (ab 15FL).|mb|P4S|an|Minimum mit 3er Anschluss.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|CJ|pc|CQ|pc|C2|pc|C5|pg||
+pc|S3|pc|S2|pc|SK|pc|SA|pg||
+mc|11|at|
+[Result] 11+450|pg||
+
+qx|o9|md|3SAQJ98HK4DAKJ6CJ4,S64HJ65D9743CAKT3,SKT75HA97DQTCQ975|sv|E|
+sk||rh||ah|Board 9|at|Schlemmreizung|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|PP1SP3SP4D|an|Zeigt Kontrolle in Karo, verneint Treff-Kontrolle.|mb|P4S|an|Da Nord keine Treff-Kontrolle hat, Abschluss im Vollspiel.|mb|PPP|at|
+[Contract] 4S:S|pg||
+pc|CA|pc|C5|pc|C2|pc|C4|pg||
+pc|CK|pc|C7|pc|C6|pc|CJ|pg||
+mc|11|at|
+[Result] 11+450|pg||
+
+qx|o10|md|4SAQJ8HK62DAT74CK7,SK75HJT974D3CT985,ST96HAQ5DKQ65CAJ6|sv|B|
+sk||rh||ah|Board 10|at||
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1NP4N|an|Quantitative Ansage (16FP), Partner kann passen.|mb|P6N|an|Mit Maximum geht Sued auf Kleinschlemm.|mb|PPP|at|
+[Contract] 6N:S|pg||
+pc|HJ|pc|HA|pc|H3|pc|H2|pg||
+pc|ST|pc|S2|pc|S8|pc|SK|pg||
+pc|HT|pc|HQ|pc|H8|pc|H6|pg||
+pc|DK|pc|D2|pc|D4|pc|D3|pg||
+pc|DQ|pc|D8|pc|D7|pc|H4|pg||
+pc|D6|pc|D9|pc|DT|pc|H7|pg||
+mc|12|at|
+[Result] 12+1440|pg||
+
+qx|o11|md|1SAKT875HQ6DAK94CA,S643H742DJ86CKQ75,SQJ9HKJ83DQ7CJT86|sv|0|
+sk||rh||ah|Board 11|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|2CP2DP2SP3S|an|Einfache Hebung zeigt Schlemminteresse.|mb|P4C|an|Zeigt Treff-Kontrolle.|mb|P4H|an|Zeigt Coeur Kontrolle, verneint Karo-Kontrolle.|mb|P4N|an|Nun stellt Sued die Ass-Frage (RKCB).|mb|P5C|an|0 oder 3 Keycards.|mb|P5D|an|Frage nach Trumpf-dame.|mb|P5S|an|Ja ich habe sie.|mb|P6SPPP|at|
+[Contract] 6S:S|pg||
+pc|CK|pc|C6|pc|C2|pc|CA|pg||
+pc|S5|pc|S3|pc|SQ|pc|S2|pg||
+pc|S9|pc|C3|pc|SK|pc|S4|pg||
+pc|SA|pc|S6|pc|SJ|pc|C4|pg||
+pc|HQ|pc|H2|pc|H3|pc|HA|pg||
+mc|12|at|
+[Result] 12+980|pg||
+
+qx|o12|md|2SQ7HAKJT95DKJ8CKQ,ST986H76D9754CA94,SAJ5HQ83DAQT6C876|sv|N|
+sk||rh||ah|Board 12|
+nt|[Date] 2016|at|
+[Location] BRIDGE PIRAT - Uebungen|at|
+[Event] Reizung B2|at|
+[Scoring] I|pn|Sued,West,Nord,Ost|pf|y|
+mb|P1DP2H|an|Schlemminteresse (ab 18FL).|mb|P3HP4C|an|Zeigt Treff Kontrolle, verneint Pik-Kontrolle.|mb|P4D|an|Zeigt Karo-Kontrolle und impliziert Pik-Kontrolle.|mb|P4N|an|Ass-Frage (RKCB).|mb|P5S|an|2 Keycards plus Trumpf-dame.|mb|P6HPPP|at|
+[Contract] 6H:S|pg||
+pc|ST|pc|SA|pc|S4|pc|S7|pg||
+pc|H3|pc|H2|pc|HA|pc|H6|pg||
+pc|HK|pc|H7|pc|H8|pc|H4|pg||
+pc|DK|pc|D4|pc|D6|pc|D2|pg||
+pc|DJ|pc|D5|pc|DA|pc|D3|pg||
+mc|12|at|
+[Result] 12+1430|pg||
+</lin>
